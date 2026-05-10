@@ -22,4 +22,5 @@ Dashboard desenvolvido para a **Opuline Cosméticos** durante o curso **"Power B
 - Gráficos de barras, linhas e KPIs
 
 ## 🖼️ Preview
-![Preview do Dashboard Opuline](./img/preview.png)
+<img width="1545" height="859" alt="projeto-opuline" src="https://github.com/user-attachments/assets/44e6e465-a946-448f-b989-e323657abd64" />
+
